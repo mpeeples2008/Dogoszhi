@@ -1,0 +1,314 @@
+"","SWSN_ID","SWSN_Site","CSN_macro_group","GH_Count","GK_Count","Dshp_Count","Biwall_Count","Triwall_Count","EASTING","NORTHING","long","lat","Region","Mean.Rooms"
+"1",665,"Aragon","Mogollon Highlands",0,1,0,0,0,726518,3751658,-108.55,33.88,NA,NA
+"2",708,"Aztec","Middle San Juan",3,3,0,2,3,767672,4080788,-107.99,36.83,"Middle San Juan",750
+"7",720,"Pueblo Pintado","Central San Juan Basin",1,1,0,0,0,799927,3986515,-107.67,35.97,"Central San Juan Basin",90
+"14",727,"Morris 39","Middle San Juan",2,5,0,0,0,747943,4082548,-108.21,36.85,"Middle San Juan",145
+"20",727,"Morris 39","Middle San Juan",2,5,0,0,0,747943,4082548,-108.21,36.85,"Middle San Juan",80
+"24",728,"Holmes Group","Middle San Juan",2,4,0,1,1,751443,4090298,-108.17,36.92,"Middle San Juan",70
+"31",730,"Flora Vista","Middle San Juan",0,1,0,0,0,759969,4075422,-108.08,36.79,"Middle San Juan",150
+"33",733,"Jaquez","Middle San Juan",1,2,0,0,0,757570,4064586,-108.11,36.69,"Middle San Juan",200
+"40",734,"Fort Wingate","Rio Puerco of the West",1,1,0,0,0,732688,3932280,-108.43,35.5,"Rio Puerco of the West",100
+"48",735,"Newcomb Community","Chuska Slope",1,1,0,0,0,705338,4017513,-108.71,36.28,"Chuska Slope",400
+"52",735,"Newcomb Community","Chuska Slope",1,1,0,0,0,705338,4017513,-108.71,36.28,"Chuska Slope",NA
+"55",743,"Twin Angels","Central San Juan Basin",1,0,0,0,0,773305,4052620,-107.94,36.58,"Central San Juan Basin",19
+"64",745,"Lizard House--Cebolleta Mesa","Acoma",0,1,0,0,0,780163,3850345,-107.93,34.75,"Acoma",66
+"66",750,"Skunk Springs","Chuska Slope",1,2,0,0,0,701591,4012703,-108.75,36.24,"Chuska Slope",203
+"67",750,"Skunk Springs","Chuska Slope",1,2,0,0,0,701591,4012703,-108.75,36.24,"Chuska Slope",67.5
+"76",754,"Crumbled House","Chuska Slope",1,0,0,0,0,699564,4010757,-108.78,36.22,"Chuska Slope",420
+"80",811,"LA 8240","Chuska Slope",1,0,0,0,0,711828,3991287,-108.64,36.04,"Chuska Slope",33
+"87",824,"Salmon","Middle San Juan",1,2,0,0,0,765586,4065874,-108.02,36.7,"Middle San Juan",300
+"92",903,"Kello Blancett","Middle San Juan",1,1,0,0,0,763879,4077000,-108.04,36.8,"Middle San Juan",200
+"96",906,"Morris' Old Fort","Middle San Juan",1,1,0,0,0,748558,4066051,-108.21,36.7,"Middle San Juan",75
+"98",964,"Hinkson Ranch","Cibola",1,1,0,0,0,682727,3852700,-109,34.8,"Cibola",16
+"101",971,"Kin Cheops II","Mariana Mesa/Quemado",1,1,0,0,0,735283,3827570,-108.43,34.56,"Mariana Mesa/Quemado",25
+"104",971,"Kin Cheops II","Mariana Mesa/Quemado",1,1,0,0,0,735283,3827570,-108.43,34.56,"Mariana Mesa/Quemado",100
+"105",977,"Eagle Crag","Defiance Plateau",1,0,0,0,0,606275,3964325,-109.82,35.81,"Defiance Plateau",100
+"109",989,"Kinlichee","Defiance Plateau",1,2,0,0,0,642857,3957960,-109.42,35.75,"Defiance Plateau",150
+"116",994,"Cornfields","Defiance Plateau",1,0,0,0,0,621574,3947743,-109.65,35.66,"Defiance Plateau",275
+"119",1098,"Tom's Rock","Mariana Mesa/Quemado",1,1,0,0,0,745057,3817900,-108.33,34.47,"Mariana Mesa/Quemado",100
+"123",1099,"Goesling","Hardscrabble/ULC",1,1,0,0,0,683680,3809690,-109,34.41,"Hardscrabble/ULC",200
+"125",1103,"Hubble Corner","Mariana Mesa/Quemado",1,1,0,0,0,736597,3818100,-108.42,34.47,"Mariana Mesa/Quemado",130
+"127",1239,"Bean Patch","Hardscrabble/ULC",1,0,0,0,0,670510,3835209,-109.14,34.64,"Hardscrabble/ULC",58
+"129",1240,"Garcia Ranch","Hardscrabble/ULC",1,1,0,0,0,674487,3824434,-109.09,34.54,"Hardscrabble/ULC",150
+"131",1244,"Carter Ranch Pueblo","Silver Creek",0,1,0,0,0,598996,3819199,-109.92,34.51,"Silver Creek",45
+"134",1256,"Seven Springs","Hardscrabble/ULC",0,1,0,0,0,637459,3849669,-109.49,34.78,"Hardscrabble/ULC",175
+"139",1288,"Village of the Great Kivas","Cibola",1,2,0,0,0,709707,3897370,-108.69,35.19,"Cibola",60
+"146",1307,"Fenced Up Horse Canyon","Rio Puerco of the West",1,1,0,0,0,716699,3930057,-108.61,35.49,"Rio Puerco of the West",153
+"150",1314,"Los Gigantes","Cibola",1,1,0,0,0,736737,3887260,-108.4,35.1,"Cibola",120
+"153",1316,"Spier 81","Cibola",1,1,0,0,0,714487,3887930,-108.64,35.11,"Cibola",371
+"157",1365,"Wupatki","Flagstaff",1,1,0,0,0,466195,3930915,-111.37,35.52,"Flagstaff",102
+"162",1368,"Lukachukai GH","Upper Chinle Drainage",1,0,0,0,0,652757,4034681,-109.29,36.44,"Upper Chinle Drainage",30
+"167",1373,"Antelope House","Upper Chinle Drainage",1,0,0,0,0,639851,4002395,-109.44,36.15,"Upper Chinle Drainage",100
+"172",1376,"White House","Upper Chinle Drainage",1,0,0,0,0,637717,3999840,-109.47,36.13,"Upper Chinle Drainage",94
+"179",1377,"Salina Springs","Black Mesa",1,0,0,0,0,602457,3987510,-109.86,36.02,"Black Mesa",75
+"182",1394,"Ridge Ruin","Flagstaff",1,0,0,0,0,466788,3896820,-111.36,35.21,"Flagstaff",21
+"187",1531,"Burnt Corn GH","Black Mesa",1,0,0,0,0,578087,3994960,-110.13,36.09,"Black Mesa",50
+"192",1618,"Castle Rock Pueblo","San Juan Foothills",0,0,1,0,0,693394,4135134,-108.81,37.34,"San Juan Foothills",70
+"195",1935,"Morris 41","Middle San Juan",1,2,0,0,0,750051,4096618,-108.19,36.98,"Middle San Juan",24
+"204",1942,"Cerro Prieto--Quemado","Mariana Mesa/Quemado",1,0,0,0,0,718457,3829700,-108.61,34.58,"Mariana Mesa/Quemado",175
+"211",1946,"Twin Towers","Middle San Juan",0,0,0,0,0,681637,4085968,-108.96,36.9,"Middle San Juan",50
+"216",1967,"Atsee Nitsaa","Rio Puerco of the West",1,1,0,0,0,684727,3918160,-108.96,35.39,"Rio Puerco of the West",50
+"220",1988,"Cox Ranch","Mariana Mesa/Quemado",1,1,0,0,0,702990,3807002,-108.79,34.38,"Mariana Mesa/Quemado",50
+"223",1988,"Cox Ranch","Mariana Mesa/Quemado",1,1,0,0,0,702990,3807002,-108.79,34.38,"Mariana Mesa/Quemado",254
+"226",1989,"Largo Gap","Mariana Mesa/Quemado",1,1,0,0,0,720901,3808695,-108.59,34.39,"Mariana Mesa/Quemado",50
+"229",2512,"Tsintaa Yitilii","Defiance Plateau",1,0,0,0,0,610637,3964964,-109.77,35.82,NA,NA
+"230",2542,"Plaza Site","West",0,1,0,0,0,556551,3902471,-110.37,35.26,"West",6
+"235",2602,"Dancing Rock GH","Upper Chinle Drainage",1,0,0,0,0,625938,4062202,-109.59,36.69,"Upper Chinle Drainage",9
+"241",2790,"Sterling ","Middle San Juan",1,0,0,0,0,755045,4065435,-108.14,36.7,NA,NA
+"242",2856,"South Ruin","Cibola",0,1,0,0,0,741576,3880144,-108.35,35.03,"Cibola",40
+"243",2982,"FSOP02 Great Kiva","Cibola",0,1,0,0,0,723705,3865828,-108.55,34.91,"Cibola",50
+"246",2997,"Casa Mosca","Acoma",1,1,0,0,0,780508,3849758,-107.93,34.75,"Acoma",72
+"249",2999,"Dittert Ranch","Acoma",1,0,0,0,0,777477,3839435,-107.97,34.66,"Acoma",40
+"253",3000,"LA 102391","Acoma",0,1,0,0,0,777465,3840703,-107.97,34.67,"Acoma",10
+"255",3001,"LA 11670","Acoma",1,1,0,0,0,780293,3850343,-107.93,34.75,"Acoma",14
+"260",3002,"Las Ventanas","Acoma",1,1,0,0,0,790393,3874766,-107.81,34.97,"Acoma",89
+"266",3004,"5 Acre Ruin","Southeast Utah",1,2,0,0,0,643837,4156903,-109.37,37.54,"Southeast Utah",100
+"271",3005,"Albert Porter","San Juan Foothills",1,1,0,0,0,694215,4151766,-108.8,37.49,"San Juan Foothills",80
+"280",3006,"Allentown","Rio Puerco of the West",1,1,0,0,0,669570,3903409,-109.13,35.26,"Rio Puerco of the West",110
+"284",3007,"Andrews","Lobo Mesa/Red Mesa Valley",1,1,0,0,0,771652,3921810,-108,35.4,"Lobo Mesa/Red Mesa Valley",22
+"292",3009,"Ansell Hall","San Juan Foothills",1,1,0,0,0,686737,4167652,-108.88,37.63,"San Juan Foothills",200
+"296",3017,"Arch Canyon","Southeast Utah",1,1,0,0,0,617343,4156353,-109.67,37.54,"Southeast Utah",50
+"298",3020,"AZ P:11:124 (ASU)","Silver Creek",0,1,0,0,0,585200,3809300,-110.07,34.42,"Silver Creek",45
+"303",3021,"AZ P:11:130 (ASU)","Silver Creek",0,1,0,0,0,581000,3807500,-110.11,34.4,"Silver Creek",50
+"308",3022,"AZ P:11:55 (ASU)","Silver Creek",0,1,0,0,0,565977,3796340,-110.28,34.3,"Silver Creek",15
+"312",3023,"AZ P:11:57 (ASU)","Silver Creek",0,1,0,0,0,566858,3799360,-110.27,34.33,"Silver Creek",40
+"316",3024,"AZ P:12:105 (ASU)","Silver Creek",0,1,0,0,0,577836,3815000,-110.15,34.47,"Silver Creek",30
+"321",3026,"AZ P:12:404 (ASM)","Silver Creek",0,1,0,0,0,576895,3814555,-110.16,34.47,NA,NA
+"322",3027,"AZ P:12:76 (ASU)","Silver Creek",0,1,0,0,0,577036,3814100,-110.16,34.46,"Silver Creek",30
+"326",3028,"AZ P:12:99 (ASU)","Silver Creek",0,1,0,0,0,576186,3814500,-110.17,34.47,"Silver Creek",65
+"333",3030,"AZ P:16:160 (ASM)","Silver Creek",0,1,0,0,0,579747,3787859,-110.13,34.23,"Silver Creek",12
+"336",3033,"AZ Q:3:64 (ASM)","Hardscrabble/ULC",0,1,0,0,0,647186,3849200,-109.39,34.77,"Hardscrabble/ULC",NA
+"337",3035,"Bad Dog Ridge","Defiance Plateau",1,1,0,0,0,635497,3925270,-109.5,35.46,"Defiance Plateau",15
+"343",3039,"Bancos Village","Middle San Juan",0,1,0,0,0,816369,4091573,-107.44,36.91,"Middle San Juan",17
+"346",3040,"Bee Burrow","Central San Juan Basin",1,0,0,0,0,768470,3970684,-108.02,35.84,"Central San Juan Basin",11
+"351",3044,"Bis'saani East","Central San Juan Basin",1,1,0,0,0,789164,3998430,-107.78,36.08,"Central San Juan Basin",25
+"355",3045,"Bis'saani West","Central San Juan Basin",1,1,0,0,0,789016,3998431,-107.79,36.08,"Central San Juan Basin",12
+"359",3046,"Black Creek Flat","Chuska Slope",1,0,0,0,0,699137,3956300,-108.79,35.73,"Chuska Slope",24
+"362",3046,"Black Creek Flat","Chuska Slope",1,0,0,0,0,699137,3956300,-108.79,35.73,"Central San Juan Basin",24
+"364",3047,"Black Mesa Ruin","Southeast Utah",1,0,0,0,0,626039,4154422,-109.57,37.53,"Southeast Utah",NA
+"368",3048,"Blackrock Gaddy","Defiance Plateau",1,0,0,0,0,634857,3917200,-109.51,35.39,"Defiance Plateau",30
+"375",3049,"Blue J","Lobo Mesa/Red Mesa Valley",1,0,0,0,0,769045,3925650,-108.03,35.43,"Lobo Mesa/Red Mesa Valley",4
+"380",3051,"Bluewater Spring","Lobo Mesa/San Juan Basin",1,1,0,0,0,766035,3946679,-108.06,35.62,"Lobo Mesa/San Juan Basin",30
+"386",3052,"Bluff Great House","Southeast Utah",1,1,0,0,0,627928,4127728,-109.55,37.28,"Southeast Utah",50
+"396",3053,"Bluff Bench Great Kiva","Southeast Utah",0,1,0,0,0,627708,4136405,-109.55,37.36,NA,NA
+"397",3056,"Carhart Ruin","San Juan Foothills",1,1,0,0,0,670003,4174248,-109.07,37.7,"San Juan Foothills",NA
+"406",3057,"Carol's Ruin","San Juan Foothills",0,1,0,0,0,683417,4152900,-108.92,37.5,"San Juan Foothills",NA
+"414",3059,"Casa Abajo","Central San Juan Basin",1,0,0,0,0,746210,3985352,-108.26,35.98,"Central San Juan Basin",9
+"423",3061,"Casa Cielo","Central San Juan Basin",1,0,0,0,0,746729,3985386,-108.26,35.98,"Central San Juan Basin",12
+"429",3062,"Casa del Rio","Central San Juan Basin",1,0,0,0,0,762315,3998132,-108.08,36.09,"Central San Juan Basin",130
+"437",3063,"Casa Escondida","Central San Juan Basin",1,1,0,0,0,758690,3983927,-108.13,35.96,"Central San Juan Basin",7
+"441",3064,"Casa Estrella","Lobo Mesa/San Juan Basin",1,0,0,0,0,748726,3956706,-108.25,35.72,"Lobo Mesa/San Juan Basin",8
+"446",3065,"Casa Negra","San Juan Foothills",1,1,0,0,0,697737,4141302,-108.76,37.39,"San Juan Foothills",60
+"455",3066,"Casa Patricio","Central San Juan Basin",0,1,0,0,0,771643,3981907,-107.98,35.94,"Central San Juan Basin",NA
+"463",3067,"Casa Rinconada","Chaco Canyon",0,1,0,0,0,773842,3994276,-107.96,36.05,"Chaco Canyon",NA
+"465",3068,"Casamero","Lobo Mesa/Red Mesa Valley",1,1,0,0,0,767495,3924294,-108.05,35.42,"Lobo Mesa/Red Mesa Valley",30
+"470",3069,"Cerro Pomo","Mariana Mesa/Quemado",1,1,0,0,0,710317,3803250,-108.71,34.35,"Mariana Mesa/Quemado",40
+"473",3070,"Chaco East","Central San Juan Basin",1,0,0,0,0,792606,3987319,-107.75,35.98,"Central San Juan Basin",25
+"479",3071,"Chacra Mesa Great Kiva","Chaco Canyon",0,1,0,0,0,783798,3989759,-107.85,36.01,"Chaco Canyon",NA
+"486",3072,"Chambers Great House","Rio Puerco of the West",1,1,0,0,0,640188,3896527,-109.46,35.2,"Rio Puerco of the West",40
+"492",3073,"Chetro Ketl","Chaco Canyon",1,1,0,0,0,774337,3994918,-107.95,36.06,"Chaco Canyon",490
+"498",3074,"Chimney Rock","San Juan Foothills",1,1,0,0,0,827880,4122533,-107.3,37.19,"San Juan Foothills",55
+"506",3075,"Church Rock","Rio Puerco of the West",1,1,0,0,0,722110,3942383,-108.54,35.6,"Rio Puerco of the West",20
+"511",3076,"Cline Point","Silver Creek",0,1,0,0,0,557950,3797900,-110.37,34.32,"Silver Creek",25
+"517",3078,"Coalbed Village","Southeast Utah",1,1,0,0,0,655116,4163340,-109.24,37.6,"Southeast Utah",125
+"522",3081,"Coolidge","Rio Puerco of the West",2,3,0,0,0,741024,3930627,-108.34,35.49,"Rio Puerco of the West",29
+"527",3083,"Cothruns","Silver Creek",0,1,0,0,0,573039,3799453,-110.2,34.33,"Silver Creek",6
+"534",3084,"Cottonwood Falls","Southeast Utah",1,1,0,0,0,624345,4159908,-109.59,37.57,"Southeast Utah",85
+"538",3086,"Coyotes Sing Here","Lobo Mesa/Red Mesa Valley",1,1,0,0,0,766181,3930716,-108.06,35.48,"Lobo Mesa/Red Mesa Valley",17
+"543",3087,"CS219","Silver Creek",0,1,0,0,0,578953,3787497,-110.14,34.22,"Silver Creek",NA
+"548",3088,"CS689","West",0,1,0,0,0,508270,3829970,-110.91,34.61,"West",NA
+"555",3089,"Cuatro Payasos","Central San Juan Basin",1,0,0,0,0,736405,4006419,-108.37,36.17,"Central San Juan Basin",14
+"564",3090,"Dalton Pass","Lobo Mesa/San Juan Basin",1,1,0,0,0,744858,3955547,-108.29,35.71,"Lobo Mesa/San Juan Basin",20
+"573",3091,"Danson 202","Mariana Mesa/Quemado",1,0,0,0,0,726946,3798468,-108.53,34.3,"Mariana Mesa/Quemado",50
+"574",3093,"Deer Springs","Chuska Slope",1,0,0,0,0,698987,3957570,-108.8,35.74,"Chuska Slope",7
+"580",3096,"Dzil Nda Kai","Central San Juan Basin",1,0,0,0,0,718484,3969352,-108.58,35.84,"Central San Juan Basin",8
+"585",3097,"Edge of the Cedars","Southeast Utah",1,1,0,0,0,633187,4165966,-109.49,37.63,"Southeast Utah",16
+"591",3098,"El Malpais","Middle San Juan",1,2,0,0,0,697307,4082971,-108.78,36.87,"Middle San Juan",20
+"598",3099,"El Rito","Lobo Mesa/Red Mesa Valley",1,1,0,0,0,800557,3912534,-107.69,35.31,"Lobo Mesa/Red Mesa Valley",55
+"605",3101,"Escalon A","Central San Juan Basin",2,2,0,0,0,736326,4001633,-108.37,36.13,"Central San Juan Basin",6
+"611",3102,"Escalon B","Central San Juan Basin",0,0,0,0,0,736326,4001633,-108.37,36.13,"Central San Juan Basin",14
+"614",3103,"Et Al Site","Southeast Utah",1,1,0,0,0,593040,4140990,-109.94,37.41,"Southeast Utah",25
+"619",3104,"Fajada Gap Great Kiva","Chaco Canyon",0,1,0,0,0,777033,3991275,-107.92,36.02,"Chaco Canyon",NA
+"627",3106,"Figueredo","Chuska Slope",1,1,0,0,0,701834,3960773,-108.76,35.77,"Chuska Slope",20
+"634",3107,"Fort Defiance--Thunder Ridge","Chuska Slope",1,2,0,0,0,679077,3955000,-109.02,35.72,NA,NA
+"635",3109,"Ganado","Defiance Plateau",1,1,0,0,0,628904,3952450,-109.57,35.7,"Defiance Plateau",16
+"640",3111,"Garcia Ranch Bench","Hardscrabble/ULC",0,1,0,0,0,673720,3822180,-109.1,34.52,"Hardscrabble/ULC",36
+"643",3114,"Goodman Point","San Juan Foothills",1,1,0,0,0,700737,4142802,-108.73,37.41,"San Juan Foothills",500
+"645",3116,"Greasewood Flat","Southeast Utah",1,1,0,0,0,654000,4133000,-109.26,37.33,"Southeast Utah",NA
+"647",3117,"Greasy Hill","Central San Juan Basin",1,0,0,0,0,776782,3998886,-107.92,36.09,"Central San Juan Basin",6
+"650",3118,"Great Bend House A","Central San Juan Basin",1,0,0,0,0,726800,4004960,-108.47,36.16,"Central San Juan Basin",23
+"658",3119,"Great Bend House B","Central San Juan Basin",1,0,0,0,0,726858,4004978,-108.47,36.16,"Central San Juan Basin",12
+"666",3120,"Great Bend West","Central San Juan Basin",1,0,0,0,0,721236,4006790,-108.54,36.18,"Central San Juan Basin",20
+"672",3123,"Greenlee","Central San Juan Basin",1,0,0,0,0,777548,3982884,-107.92,35.95,"Central San Juan Basin",18
+"678",3124,"Grey Hill Spring","Central San Juan Basin",1,0,0,0,0,723714,3989388,-108.51,36.02,"Central San Juan Basin",21
+"681",3124,"Grey Hill Spring","Central San Juan Basin",1,0,0,0,0,723714,3989388,-108.51,36.02,"Central San Juan Basin",11
+"684",3125,"Grey Ridge","Chuska Slope",1,0,0,0,0,711357,3961800,-108.66,35.77,"Chuska Slope",NA
+"688",3126,"Guadalupe","Puerco River East",1,1,0,0,0,851300,3937415,-107.12,35.52,"Puerco River East",74
+"692",3127,"H Spear","Cibola",1,1,0,0,0,683750,3850341,-108.99,34.78,"Cibola",14
+"698",3128,"Halfway House","Central San Juan Basin",1,0,0,0,0,774460,4031383,-107.94,36.39,"Central San Juan Basin",12
+"700",3129,"Hammond Canyon","Southeast Utah",1,0,0,0,0,614595,4174521,-109.7,37.71,NA,NA
+"701",3130,"Hampton","San Juan Foothills",0,1,0,0,0,677380,4163128,-108.99,37.59,"San Juan Foothills",NA
+"710",3131,"Hartman Draw","San Juan Foothills",1,1,0,0,0,713874,4144403,-108.58,37.42,"San Juan Foothills",NA
+"719",3133,"Haynie Ruin","San Juan Foothills",1,1,0,0,0,720956,4139877,-108.5,37.38,"San Juan Foothills",50
+"729",3134,"Haystack","Lobo Mesa/Red Mesa Valley",1,1,0,0,0,783132,3915618,-107.88,35.34,"Lobo Mesa/Red Mesa Valley",28
+"734",3135,"Hedley Ruin","San Juan Foothills",2,1,1,0,0,670387,4165703,-109.06,37.62,"San Juan Foothills",NA
+"743",3136,"Hogback","Middle San Juan",1,2,0,0,0,720541,4059341,-108.53,36.65,"Middle San Juan",9
+"751",3138,"Houck","Rio Puerco of the West",1,0,0,0,0,662337,3905260,-109.21,35.27,"Rio Puerco of the West",8
+"758",3139,"Hough's Great Kiva","Silver Creek",0,1,0,0,0,576218,3789840,-110.17,34.24,"Silver Creek",20
+"764",3140,"House Creek","San Juan Foothills",0,1,0,0,0,718281,4155806,-108.53,37.52,NA,NA
+"765",3141,"House of the Giant Midden","Central San Juan Basin",0,0,0,0,0,738048,3999158,-108.35,36.1,"Central San Juan Basin",NA
+"773",3144,"Hurley Site","Lobo Mesa/San Juan Basin",1,1,0,0,0,754037,3954780,-108.19,35.7,"Lobo Mesa/San Juan Basin",25
+"777",3145,"Ida Jean","San Juan Foothills",1,1,0,0,0,720072,4139889,-108.51,37.38,"San Juan Foothills",50
+"779",3146,"Iyanbito Great Kiva","Rio Puerco of the West",0,1,0,0,0,731750,3931600,-108.44,35.5,"Rio Puerco of the West",NA
+"787",3147,"Kearn's Site","San Juan Foothills",0,1,0,0,0,681152,4149571,-108.95,37.47,"San Juan Foothills",NA
+"794",3149,"Kin Bineola","Central San Juan Basin",1,2,0,0,0,757709,3988096,-108.14,36,"Central San Juan Basin",197
+"803",3150,"Kin Cheops I","Mariana Mesa/Quemado",1,1,0,0,0,735745,3827343,-108.43,34.56,"Mariana Mesa/Quemado",7
+"806",3150,"Kin Cheops I","Mariana Mesa/Quemado",1,1,0,0,0,735745,3827343,-108.43,34.56,"Mariana Mesa/Quemado",25
+"807",3152,"Kin Hochoi","Rio Puerco of the West",1,2,0,0,0,682796,3921328,-108.98,35.42,"Rio Puerco of the West",100
+"810",3152,"Kin Hochoi","Rio Puerco of the West",1,2,0,0,0,682796,3921328,-108.98,35.42,"Rio Puerco of the West",40
+"814",3153,"Kin Indian Ruin","Central San Juan Basin",1,0,0,0,0,774564,4001204,-107.95,36.11,"Central San Juan Basin",40
+"815",3153,"Kin Indian Ruin","Central San Juan Basin",1,0,0,0,0,774564,4001204,-107.95,36.11,"Central San Juan Basin",6
+"816",3154,"Kin Kletso","Chaco Canyon",1,0,0,0,0,772905,3995422,-107.97,36.06,"Chaco Canyon",6
+"819",3155,"Kin Klizhin","Central San Juan Basin",1,0,0,0,0,763743,3991110,-108.07,36.03,"Central San Juan Basin",18
+"825",3156,"Kin Nahasbas","Chaco Canyon",1,1,0,0,0,778096,3992381,-107.91,36.03,"Chaco Canyon",16
+"834",3157,"Kin Sani","Lobo Mesa/Red Mesa Valley",1,4,0,0,0,765935,3932774,-108.06,35.5,"Lobo Mesa/Red Mesa Valley",12
+"839",3158,"Kin Tliish","Lobo Mesa/Red Mesa Valley",1,4,0,0,0,780937,3916805,-107.9,35.35,"Lobo Mesa/Red Mesa Valley",12
+"845",3160,"Kin Ya'a","Lobo Mesa/San Juan Basin",1,1,0,0,0,761222,3951855,-108.11,35.67,"Lobo Mesa/San Juan Basin",44
+"850",3164,"LA 100280","Rio Puerco of the West",0,1,0,0,0,729887,3931930,-108.46,35.5,"Rio Puerco of the West",NA
+"852",3165,"LA 115436","Cibola",0,1,0,0,0,703127,3867310,-108.77,34.92,"Cibola",20
+"856",3166,"LA 12573 A","Lobo Mesa/Red Mesa Valley",1,1,0,0,0,782318,3915356,-107.89,35.34,"Lobo Mesa/Red Mesa Valley",20
+"860",3167,"LA 126820","Central San Juan Basin",0,1,0,0,0,775508,3981124,-107.94,35.93,NA,NA
+"861",3168,"LA 126862","Central San Juan Basin",0,1,0,0,0,775306,3977985,-107.95,35.9,"Central San Juan Basin",7
+"869",3169,"LA 17226","Lobo Mesa/San Juan Basin",1,1,0,0,0,754403,3955235,-108.18,35.71,"Lobo Mesa/San Juan Basin",22
+"873",3171,"LA 2520","Middle San Juan",1,0,0,0,0,739473,4083148,-108.31,36.86,"Middle San Juan",60
+"876",3183,"LA 47526","Rio Puerco of the West",0,1,0,0,0,682737,3915500,-108.98,35.36,"Rio Puerco of the West",3
+"882",3188,"LA 60002","Middle San Juan",0,2,0,0,0,766895,4080672,-108,36.83,"Middle San Juan",NA
+"883",3189,"LA 60006","Middle San Juan",0,1,0,0,0,767119,4080877,-108,36.83,"Middle San Juan",NA
+"886",3191,"LA 60022","Middle San Juan",0,3,0,0,0,767807,4081539,-107.99,36.84,"Middle San Juan",9
+"890",3194,"LA 67158","Lobo Mesa/Red Mesa Valley",0,1,0,0,0,767577,3924370,-108.05,35.42,"Lobo Mesa/Red Mesa Valley",NA
+"897",3199,"LA 7603","Chuska Slope",0,1,0,0,0,698839,4030874,-108.78,36.4,"Chuska Slope",NA
+"904",3200,"LA 8244","Chuska Slope",0,1,0,0,0,684854,4052621,-108.93,36.6,"Chuska Slope",50
+"912",3201,"LA 82742","Cibola",0,1,0,0,0,714497,3887960,-108.64,35.11,"Cibola",3
+"915",3202,"LA 8620","Middle San Juan",1,0,0,0,0,732425,4067738,-108.39,36.72,"Middle San Juan",85
+"916",3203,"LA 98500","Middle San Juan",0,1,0,0,0,769665,4097122,-107.97,36.98,NA,NA
+"917",3204,"Lake Valley","Central San Juan Basin",1,0,0,0,0,754762,3999716,-108.17,36.11,"Central San Juan Basin",26
+"926",3207,"Lancaster","San Juan Foothills",1,1,0,0,0,689200,4163620,-108.85,37.6,"San Juan Foothills",NA
+"933",3208,"Loma Enebro","Middle San Juan",0,1,0,0,0,772467,4096847,-107.93,36.98,NA,NA
+"934",3209,"Longacre 15","Hardscrabble/ULC",0,1,0,0,0,652621,3815165,-109.33,34.46,"Hardscrabble/ULC",12
+"937",3210,"Los Veteados Great Kiva","Acoma",0,1,0,0,0,778179,3839778,-107.96,34.66,"Acoma",8
+"943",3211,"Lower Cow Canyon","San Juan Foothills",0,1,0,0,0,681004,4158918,-108.95,37.56,"San Juan Foothills",NA
+"946",3212,"Lower Greenlee","Central San Juan Basin",1,0,0,0,0,777926,3982731,-107.91,35.95,"Central San Juan Basin",NA
+"951",3213,"Lower Kin Nizhoni","Lobo Mesa/Red Mesa Valley",1,0,0,0,0,792664,3918753,-107.77,35.37,"Lobo Mesa/Red Mesa Valley",3
+"955",3214,"Lowry","San Juan Foothills",1,1,0,0,0,683644,4161767,-108.92,37.58,"San Juan Foothills",40
+"964",3215,"LZ 1090 Group","Cibola",0,2,0,0,0,683650,3849800,-108.99,34.77,"Cibola",NA
+"965",3217,"Mancos Canyon","San Juan Foothills",0,1,0,0,0,702657,4157924,-108.7,37.54,"San Juan Foothills",NA
+"969",3218,"Martin Site 1","San Juan Foothills",0,1,0,0,0,688937,4166202,-108.85,37.62,NA,NA
+"970",3219,"May Canyon","San Juan Foothills",0,1,0,0,0,718220,4153811,-108.53,37.5,NA,NA
+"971",3221,"McCreery","Rio Puerco of the West",1,1,0,0,0,610559,3875051,-109.78,35.01,"Rio Puerco of the West",5
+"977",3222,"McPhee Pueblo","San Juan Foothills",0,0,0,0,0,716441,4154952,-108.55,37.51,NA,NA
+"978",3224,"Mesa Tierra","Central San Juan Basin",1,0,0,0,0,762226,3996341,-108.08,36.07,"Central San Juan Basin",35
+"985",3225,"Millard","San Juan Foothills",0,1,0,0,0,704667,4139392,-108.68,37.38,NA,NA
+"986",3226,"Mineral Creek","Hardscrabble/ULC",0,1,0,0,0,624447,3804298,-109.64,34.37,"Hardscrabble/ULC",10
+"990",3227,"Mitchell Springs","San Juan Foothills",2,2,1,0,0,713107,4133642,-108.59,37.32,"San Juan Foothills",45
+"996",3228,"Mitten Rock","Chuska Slope",1,1,0,0,0,685007,4052731,-108.93,36.6,"Chuska Slope",16
+"1004",3232,"Montezuma Village North","Southeast Utah",0,1,0,0,0,652637,4174303,-109.26,37.7,"Southeast Utah",NA
+"1013",3233,"Montezuma Village South","Southeast Utah",1,0,0,0,0,652967,4173703,-109.26,37.69,"Southeast Utah",80
+"1016",3234,"Morefield","San Juan Foothills",1,2,0,0,0,729438,4124647,-108.41,37.24,NA,NA
+"1017",3240,"Muddy Water","Lobo Mesa/San Juan Basin",1,1,0,0,0,754411,3955359,-108.18,35.71,"Lobo Mesa/San Juan Basin",14
+"1019",3240,"Muddy Water","Lobo Mesa/San Juan Basin",1,1,0,0,0,754411,3955359,-108.18,35.71,"Lobo Mesa/San Juan Basin",24
+"1023",3241,"NA 8800","Black Mesa",0,1,0,0,0,582737,4043979,-110.07,36.53,"Black Mesa",NA
+"1032",3248,"Navajo Springs","Rio Puerco of the West",1,1,0,0,0,638716,3890700,-109.47,35.15,"Rio Puerco of the West",60
+"1038",3249,"Navajo Territorial Gov't Complex","Rio Puerco of the West",0,1,0,0,0,637050,3885100,-109.49,35.1,"Rio Puerco of the West",NA
+"1041",3251,"North Lowry","San Juan Foothills",1,1,0,0,0,683857,4161902,-108.91,37.58,"San Juan Foothills",65
+"1046",3252,"Oak Wash--Zuni","Cibola",1,0,0,0,0,697837,3885500,-108.83,35.09,"Cibola",20
+"1048",3253,"Owen Site","Southeast Utah",1,1,0,0,0,593650,4155402,-109.94,37.54,"Southeast Utah",20
+"1052",3254,"Padilla Well","Central San Juan Basin",1,1,0,0,0,767776,3994352,-108.02,36.05,"Central San Juan Basin",20
+"1061",3255,"Parker Site","Southeast Utah",1,0,0,0,0,636847,4154778,-109.45,37.53,"Southeast Utah",50
+"1066",3256,"Peach Springs","Central San Juan Basin",1,1,0,0,0,723048,3964082,-108.53,35.79,"Central San Juan Basin",30
+"1074",3257,"Penasco Blanco","Central San Juan Basin",1,1,0,0,0,769845,3997176,-108,36.08,"Central San Juan Basin",200
+"1083",3258,"Pierre's El Faro","Central San Juan Basin",1,0,0,0,0,774248,4015349,-107.94,36.24,"Central San Juan Basin",15
+"1086",3259,"Pierre's House A","Central San Juan Basin",1,0,0,0,0,774379,4015124,-107.94,36.24,"Central San Juan Basin",11
+"1089",3260,"Pierre's House B/C","Central San Juan Basin",1,0,0,0,0,774389,4015176,-107.94,36.24,"Central San Juan Basin",12
+"1094",3261,"Point Pueblo","Middle San Juan",1,0,0,0,0,752575,4066420,-108.17,36.71,"Middle San Juan",99
+"1095",3261,"Point Pueblo","Middle San Juan",1,0,0,0,0,752575,4066420,-108.17,36.71,"Middle San Juan",NA
+"1104",3262,"Pueblo Alto","Chaco Canyon",1,0,0,0,0,773975,3995998,-107.95,36.07,"Chaco Canyon",80
+"1110",3263,"Pueblo Bonito","Chaco Canyon",1,3,0,0,0,773657,3994943,-107.96,36.06,"Chaco Canyon",700
+"1119",3264,"Pueblo Cerrito","Acoma",1,0,0,0,0,780279,3850118,-107.93,34.75,"Acoma",23
+"1124",3265,"Pueblo de los Golondrinas","San Juan Foothills",0,0,0,0,0,716597,4155212,-108.54,37.52,"San Juan Foothills",41
+"1125",3266,"Pueblo del Arroyo","Chaco Canyon",1,0,0,0,1,773303,3994972,-107.96,36.06,"Chaco Canyon",275
+"1129",3267,"Ram Mesa","Rio Puerco of the West",1,1,0,0,0,722837,3944700,-108.54,35.62,"Rio Puerco of the West",14
+"1134",3270,"Red Knobs","Southeast Utah",1,1,0,0,0,620117,4168453,-109.63,37.65,"Southeast Utah",90
+"1140",3272,"Red Pottery Mound","San Juan Foothills",1,1,0,0,0,698147,4160332,-108.75,37.57,"San Juan Foothills",NA
+"1141",3273,"Red Willow","Chuska Slope",1,1,0,1,0,708390,3967384,-108.69,35.83,"Chuska Slope",10
+"1146",3275,"Reservoir--Northern San Juan","San Juan Foothills",1,1,1,0,0,717968,4149732,-108.53,37.47,"San Juan Foothills",NA
+"1150",3275,"Reservoir--Northern San Juan","San Juan Foothills",1,1,1,0,0,717968,4149732,-108.53,37.47,"San Juan Foothills",99
+"1155",3280,"Sambrito Village","Middle San Juan",0,1,0,0,0,816479,4097186,-107.44,36.96,NA,NA
+"1156",3281,"San Mateo","Lobo Mesa/Red Mesa Valley",1,2,0,0,0,804486,3916425,-107.65,35.34,"Lobo Mesa/Red Mesa Valley",112
+"1161",3283,"Sanders GH","Rio Puerco of the West",1,1,0,0,0,651387,3895780,-109.33,35.19,"Rio Puerco of the West",40
+"1167",3284,"Sanostee","Central San Juan Basin",1,2,0,0,0,717450,4038444,-108.57,36.46,"Central San Juan Basin",16
+"1175",3286,"Singing Shelter","San Juan Foothills",0,1,0,0,0,718438,4156071,-108.52,37.52,"San Juan Foothills",NA
+"1176",3287,"Skull Site","Acoma",1,1,0,0,0,780087,3850111,-107.94,34.75,"Acoma",10
+"1183",3289,"Springstead","Rio Puerco of the West",0,1,0,0,0,721997,3940860,-108.55,35.58,"Rio Puerco of the West",10
+"1191",3290,"Squaw Springs","Middle San Juan",1,2,0,0,0,732669,4084876,-108.38,36.88,"Middle San Juan",23
+"1199",3291,"Standing Rock","Central San Juan Basin",1,1,0,0,0,734772,3968182,-108.4,35.83,"Central San Juan Basin",36
+"1206",3292,"Sundown","Rio Puerco of the West",0,1,0,0,0,579373,3866399,-110.13,34.93,"Rio Puerco of the West",8
+"1212",3294,"Teec Nos Pos","Middle San Juan",1,1,0,0,0,668497,4088502,-109.1,36.92,"Middle San Juan",28
+"1221",3296,"The Twins Northeast","Chuska Slope",1,1,0,0,0,709457,3959589,-108.68,35.75,"Chuska Slope",2
+"1227",3301,"Tla Kii","Silver Creek",0,1,0,0,0,584397,3777199,-110.08,34.13,"Silver Creek",20
+"1234",3302,"Tocito North","Chuska Slope",1,0,0,0,0,698554,4031882,-108.78,36.41,"Chuska Slope",NA
+"1243",3303,"Tocito South","Chuska Slope",1,0,0,0,0,698554,4031882,-108.78,36.41,"Chuska Slope",NA
+"1252",3304,"Toh La Kai","Chuska Slope",1,1,0,0,0,703611,3947909,-108.75,35.65,"Chuska Slope",18
+"1259",3305,"Toyee","Defiance Plateau",1,1,0,0,0,603717,3956920,-109.85,35.75,"Defiance Plateau",9
+"1266",3306,"Tse Bee Kintsoh","Lobo Mesa/Red Mesa Valley",1,4,0,0,0,758301,3922670,-108.15,35.41,"Lobo Mesa/Red Mesa Valley",30
+"1270",3308,"Tse La Vie","Lobo Mesa/San Juan Basin",1,0,0,0,0,798925,3934158,-107.7,35.5,"Lobo Mesa/San Juan Basin",NA
+"1276",3309,"Tse Lichii","Central San Juan Basin",1,0,0,0,0,788069,3984164,-107.8,35.96,"Central San Juan Basin",12
+"1283",3310,"Tseyatoh","Rio Puerco of the West",1,1,0,0,0,687723,3932071,-108.93,35.51,"Rio Puerco of the West",60
+"1290",3311,"Tsin Kletzin","Chaco Canyon",1,0,0,0,0,774103,3992272,-107.95,36.03,"Chaco Canyon",80
+"1294",3313,"Twin Lakes","Chuska Slope",1,1,0,0,0,700509,3955598,-108.78,35.72,"Chuska Slope",NA
+"1297",3315,"Una Vida","Chaco Canyon",1,2,0,0,0,778246,3992102,-107.91,36.03,"Chaco Canyon",100
+"1306",3316,"Upper Kin Klizhin","Central San Juan Basin",1,0,0,0,0,771898,3983217,-107.98,35.95,"Central San Juan Basin",25
+"1311",3317,"Upper Kin Nizhoni","Lobo Mesa/Red Mesa Valley",1,1,0,0,0,792214,3918715,-107.78,35.37,"Lobo Mesa/Red Mesa Valley",14
+"1313",3319,"Vidal Canyon","Rio Puerco of the West",0,1,0,0,0,707488,3936822,-108.71,35.55,"Rio Puerco of the West",35
+"1318",3320,"Wallace Ruin","San Juan Foothills",1,0,0,0,0,721562,4139552,-108.49,37.37,"San Juan Foothills",124
+"1325",3321,"Wancura-Johnson GK","San Juan Foothills",0,1,0,0,0,684131,4180283,-108.91,37.75,NA,NA
+"1326",3326,"Whirlwind House","Central San Juan Basin",1,1,0,0,0,726516,3992123,-108.48,36.04,"Central San Juan Basin",12
+"1329",3327,"Whitewater","Rio Puerco of the West",0,1,0,0,0,669640,3903300,-109.13,35.26,"Rio Puerco of the West",NA
+"1330",3329,"Willow Canyon--San Juan Basin","Central San Juan Basin",0,0,0,0,0,732330,4002859,-108.41,36.14,"Central San Juan Basin",18
+"1333",3329,"Willow Canyon--San Juan Basin","Central San Juan Basin",0,0,0,0,0,732330,4002859,-108.41,36.14,"",NA
+"1334",3330,"Wolye Adin","Rio Puerco of the West",1,0,0,0,0,682997,3920530,-108.98,35.41,"Rio Puerco of the West",NA
+"1340",3332,"Yellow Jacket","San Juan Foothills",1,1,0,1,0,702703,4154395,-108.7,37.51,"San Juan Foothills",NA
+"1345",3333,"Yucca House","San Juan Foothills",1,2,0,1,0,705180,4125177,-108.68,37.25,"San Juan Foothills",20
+"1348",3334,"Escalante GH","San Juan Foothills",1,0,0,0,0,717017,4150696,-108.54,37.47,"San Juan Foothills",25
+"1355",3336,"LA 40082","Central San Juan Basin",1,0,0,0,0,775547,3981055,-107.94,35.93,"Central San Juan Basin",16
+"1360",3344,"Gravel Pit Ruin","Southeast Utah",0,1,0,0,0,637900,4141575,-109.44,37.41,"Southeast Utah",20
+"1361",3345,"NA 8044","Rio Puerco of the West",0,0,0,0,0,NA,NA,NA,NA,NA,NA
+"1362",3347,"LA 103458","Chuska Slope",0,1,0,0,0,701497,3963000,-108.77,35.79,"Chuska Slope",12
+"1368",3349,"LA 89443","Central San Juan Basin",0,1,0,0,0,736326,4001633,-108.37,36.13,NA,NA
+"1369",3350,"AZ-P-52-8-NN","Rio Puerco of the West",1,0,0,0,0,634760,3889090,-109.52,35.13,"Rio Puerco of the West",8
+"1372",3351,"Cerritos de Jaspe GK","Acoma",0,1,0,0,0,773267,3870400,-108,34.94,"Acoma",7
+"1375",3353,"Andrews Great Kiva NM","Lobo Mesa/Red Mesa Valley",0,1,0,0,0,772070,3921210,-108,35.39,"Lobo Mesa/Red Mesa Valley",2
+"1380",3355,"HST Great Kiva","Southeast Utah",0,1,0,0,0,592550,4143384,-109.95,37.43,"Southeast Utah",5
+"1384",3356,"Sand Canyon Pueblo","San Juan Foothills",0,1,1,0,0,696900,4141280,-108.77,37.39,"San Juan Foothills",530
+"1385",3358,"Woods Canyon Pueblo","San Juan Foothills",0,0,1,0,0,693370,4149800,-108.81,37.47,"San Juan Foothills",110
+"1388",3359,"Seven Towers","San Juan Foothills",0,1,2,0,0,683550,4145950,-108.92,37.44,"San Juan Foothills",175
+"1389",3360,"Bass Complex","San Juan Foothills",1,0,0,0,0,692085,4150790,-108.82,37.48,"San Juan Foothills",180
+"1392",3361,"Rich's Ruin","San Juan Foothills",0,1,0,0,0,692370,4147740,-108.82,37.45,"San Juan Foothills",50
+"1395",3363,"Kin Bineola Great Kiva 2","Central San Juan Basin",0,1,0,0,0,758258,3984400,-108.13,35.97,"Central San Juan Basin",7
+"1402",3366,"Haystack Great Kiva 2","Lobo Mesa/Red Mesa Valley",0,1,0,0,0,782318,3915356,-107.89,35.34,"Lobo Mesa/Red Mesa Valley",16
+"1403",3367,"NA 8013","Defiance Plateau",0,1,0,0,0,642857,3957960,-109.42,35.75,"Defiance Plateau",14
+"1404",3367,"NA 8013","Defiance Plateau",0,1,0,0,0,642857,3957960,-109.42,35.75,"Defiance Plateau",8
+"1411",3368,"NA 8014","Defiance Plateau",0,1,0,0,0,642857,3957960,-109.42,35.75,"Defiance Plateau",8
+"1418",3369,"Prater Village","San Juan Foothills",1,2,0,0,0,728128,4124424,-108.42,37.24,"San Juan Foothills",225
+"1419",3370,"Whites Canyon Pueblo","San Juan Foothills",0,1,0,0,0,733044,4124339,-108.37,37.23,"San Juan Foothills",150
+"1428",3371,"34-plex Complex","San Juan Foothills",0,1,0,0,0,723220,4127544,-108.48,37.26,"San Juan Foothills",4
+"1437",3387,"Upper Battleship Rock Pueblo","San Juan Foothills",1,0,0,0,0,723625,4124789,-108.47,37.24,"San Juan Foothills",400
+"1443",3387,"Upper Battleship Rock Pueblo","San Juan Foothills",1,0,0,0,0,723625,4124789,-108.47,37.24,"San Juan Foothills",NA
+"1447",3396,"Farmer Complex","Middle San Juan",1,0,0,0,0,768292,4082353,-107.99,36.85,"Middle San Juan",40
+"1449",3399,"Aztec North","Middle San Juan",1,2,0,0,0,767472,4081316,-108,36.84,"Middle San Juan",15
+"1451",3401,"Gillentine Site","Middle San Juan",0,2,0,0,0,764789,4076817,-108.03,36.8,"Middle San Juan",NA
+"1453",3403,"San Juan Biwall","Middle San Juan",0,1,0,1,0,688537,4084801,-108.88,36.89,"Middle San Juan",NA
+"1457",3404,"Canal Creek Great Kiva","Middle San Juan",0,1,0,0,0,689737,4085601,-108.87,36.89,"Middle San Juan",4
+"1458",3419,"Battleship Rock Pueblo","San Juan Foothills",0,1,0,0,0,NA,NA,NA,NA,"Central San Juan Basin",11
+"1459",3420,"Shields Pueblo","San Juan Foothills",1,0,0,0,0,700734,4143238,-108.73,37.41,"San Juan Foothills",NA
+"1469",3428,"Bowman Site East","Chuska Slope",1,0,0,0,0,699257,3952400,-108.79,35.69,"Chuska Slope",6
+"1478",3429,"Dye Wash","Chuska Slope",1,0,0,0,0,710887,3960549,-108.66,35.76,"Chuska Slope",NA
