@@ -1,6 +1,7 @@
 library(tidyverse)
 library(forcats)
 library(ggplot2)
+library(ggpubr)
 
 
 load('network.RData')
@@ -33,3 +34,124 @@ all_ceramics <- Ceramics_900 %>%
 
 full <- all_ceramics %>%
   left_join(site_attr, by = c('Site' = 'SWSN_Site'))
+
+### Figure 5
+
+figure_5 <- full %>% 
+  filter(Size_Class >0) %>%
+  ggplot(aes(y=DOG_P_1050,x=as.factor(Size_Class))) +
+  geom_boxplot() +
+  geom_point(color="black", size=2, alpha=0.9) +
+  labs(x="Size Class",y="Proportion of Dogoszhi Style") +
+  theme_bw()
+
+#### Figure 6
+
+p1 <- full %>%
+  ggplot(aes(x=Mean_Rooms, BM_P_900)) +
+  geom_point() +
+  theme_bw() +
+  labs(title=paste('A.D. 900-950, \u03c1 =',round(cor(full$Mean_Rooms,full$BM_P_900,method='spearman',use = "na.or.complete"),2)), x="Site Size", y="Black Mesa Style")
+p2 <- full %>%
+  ggplot(aes(x=Mean_Rooms,BM_P_950)) +
+  geom_point() +
+  theme_bw() +
+  labs(title=paste('A.D. 950-1000, \u03c1 =',round(cor(full$Mean_Rooms,full$BM_P_950,method='spearman',use = "na.or.complete"),2)), x="Site Size", y="Black Mesa Style")
+p3 <- full %>%
+  ggplot(aes(x=Mean_Rooms,DOG_P_1050)) +
+  geom_point() +
+  theme_bw() +
+  labs(title=paste('A.D. 1050-1100, \u03c1 =',round(cor(full$Mean_Rooms,full$DOG_P_1050,method='spearman',use = "na.or.complete"),2)), x="Site Size", y="Dogoszhi Style")
+p4 <- full %>%
+  ggplot(aes(x=Mean_Rooms,DOG_P_1100)) +
+  geom_point() +
+  theme_bw() +
+  labs(title=paste('A.D. 1100-1150, \u03c1 =',round(cor(full$Mean_Rooms,full$DOG_P_1100,method='spearman',use = "na.or.complete"),2)), x="Site Size", y="Dogoszhi Style")
+
+figure_6 <- ggarrange(p1,p2,p3,p4, ncol = 2, nrow = 2)
+
+#### Figure 7
+
+p1 <- full %>%
+  ggplot(aes(x=EV_900,BM_P_900)) +
+  geom_point() +
+  theme_bw() +
+  labs(title=paste('A.D. 900-950, \u03c1 =',round(cor(full$EV_900,full$BM_P_900,method='spearman',use = "na.or.complete"),2)), x="Eigenvector Centrality", y="Black Mesa Style")
+p2 <- full %>%
+  ggplot(aes(x=EV_950,BM_P_950)) +
+  geom_point() +
+  theme_bw() +
+  labs(title=paste('A.D. 950-1000, \u03c1 =',round(cor(full$EV_950,full$BM_P_950,method='spearman',use = "na.or.complete"),2)), x="Eigenvector Centrality", y="Black Mesa Style")
+p3 <- full %>%
+  ggplot(aes(x=EV_1050,DOG_P_1050)) +
+  geom_point() +
+  theme_bw() +
+  labs(title=paste('A.D. 1050-1100, \u03c1 =',round(cor(full$EV_1050,full$DOG_P_1050,method='spearman',use = "na.or.complete"),2)), x="Eigenvector Centrality", y="Dogoszhi Style")
+p4 <- full %>%
+  ggplot(aes(x=EV_1100,DOG_P_1100)) +
+  geom_point() +
+  theme_bw() +
+  labs(title=paste('A.D. 1100-1150, \u03c1 =',round(cor(full$EV_1100,full$DOG_P_1100,method='spearman',use = "na.or.complete"),2)), x="Eigenvector Centrality", y="Dogoszhi Style")
+
+figure_7 <- ggarrange(p1,p2,p3,p4, ncol = 2, nrow = 2)
+
+
+#### Figure 8
+
+figure_8 <- full %>% 
+  filter(CSN_macro_group %in% c('Central San Juan Basin','Chaco Canyon','Chuska Slope','Middle San Juan','Rio Puerco of the West','San Juan Foothills','Southeast Utah')) %>%
+  ggplot(aes(x=CSN_macro_group, y=BM_P_950)) +
+  geom_boxplot() +
+  labs(title="Proportion of Black Mesa Style: AD 950-1000", x ="", y = "Proportion") +
+  theme_bw()
+
+
+#### Figure 9
+
+figure_9 <- full %>% 
+  filter(CSN_macro_group %in% c('Central San Juan Basin','Chaco Canyon','Chuska Slope','Lobo Mesa/Red Mesa Valley','Defiance Plateau',
+                                'Cibola','Middle San Juan','Rio Puerco of the West','San Juan Foothills','Silver Creek','Southeast Utah')) %>%
+  ggplot(aes(x=CSN_macro_group, y=DOG_P_1050)) +
+  geom_boxplot() +
+  labs(title="Proportion of Dogoszhi Style: AD 1050-1100", x ="", y = "Proportion") +
+  theme_bw()
+
+
+### Figure 10
+
+figure_10 <- full %>%
+  ggplot(aes(x=EASTING,y=NORTHING,size=DOG_P_1050))+
+  stat_density2d(aes(fill = stat(level)), geom="polygon", alpha=0.5)+
+  geom_point() +
+  xlim(min(full$EASTING),max(full$EASTING)) +
+  ylim(min(full$NORTHING),max(full$NORTHING)) +
+  theme_bw() +
+  labs(x='',y='',title='Dogoszhi Style: A.D. 1050-1100')
+
+### Figure 11
+
+figure_11 <- full %>%
+  ggplot(aes(x=EASTING,y=NORTHING,size=BM_P_950))+
+  stat_density2d(aes(fill = stat(level)), geom="polygon", alpha=0.5)+
+  geom_point() +
+  xlim(min(full$EASTING),max(full$EASTING)) +
+  ylim(min(full$NORTHING),max(full$NORTHING)) +
+  theme_bw() +
+  labs(x='',y='',title='Black Mesa Style: A.D. 950-1000')
+
+
+full %>% 
+  ggplot(aes(x=PubArch, y=DOG_P_1050)) +
+  geom_boxplot() +
+  labs(title="Proportion of Dogoszhi Style: AD 1050-1100", x ="Number of Public Architectural Features", y = "Proportion") +
+  theme_bw() 
+
+
+
+figure_5
+figure_6
+figure_7
+figure_8
+figure_9
+
+write.csv(full,'All_Analysis.csv',row.names=F)

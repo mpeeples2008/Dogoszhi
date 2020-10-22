@@ -102,21 +102,27 @@ AD1150_1200ev <- sqrt((AD1150_1200ev^2) * length(AD1150_1200ev))
 
 AD900cent <- as.data.frame(cbind(row.names(AD900_950cer),AD900_950ev))
 colnames(AD900cent) <- c('Site','EV_900')
+AD900cent[,2] <- as.numeric(as.vector(AD900cent[,2]))
 
 AD950cent <- as.data.frame(cbind(row.names(AD950_1000cer),AD950_1000ev))
 colnames(AD950cent) <- c('Site','EV_950')
+AD950cent[,2] <- as.numeric(as.vector(AD950cent[,2]))
 
 AD1000cent <- as.data.frame(cbind(row.names(AD1000_1050cer),AD1000_1050ev))
 colnames(AD1000cent) <- c('Site','EV_1000')
+AD1000cent[,2] <- as.numeric(as.vector(AD1000cent[,2]))
 
 AD1050cent <- as.data.frame(cbind(row.names(AD1050_1100cer),AD1050_1100ev))
 colnames(AD1050cent) <- c('Site','EV_1050')
+AD1050cent[,2] <- as.numeric(as.vector(AD1050cent[,2]))
 
 AD1100cent <- as.data.frame(cbind(row.names(AD1100_1150cer),AD1100_1150ev))
 colnames(AD1100cent) <- c('Site','EV_1100')
+AD1100cent[,2] <- as.numeric(as.vector(AD1100cent[,2]))
 
 AD1150cent <- as.data.frame(cbind(row.names(AD1150_1200cer),AD1150_1200ev))
 colnames(AD1150cent) <- c('Site','EV_1150')
+AD1150cent[,2] <- as.numeric(as.vector(AD1150cent[,2]))
 
 
 rm(AD900_950,AD950_1000,AD1000_1050,AD1050_1100,AD1100_1150,AD1150_1200,cer,cer.output,lookup.list,out,wareapp2,warevar,i,per.list2,trim)
