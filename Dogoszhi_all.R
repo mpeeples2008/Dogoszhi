@@ -6,7 +6,7 @@ library(ggpubr)
 
 load('network.RData')
 
-mancos <- 0.4
+mancos <- 0.5
 
 ### Read in data files
 types <- read.csv('types.csv',header=T)
@@ -39,8 +39,10 @@ full <- all_ceramics %>%
 
 figure_5 <- full %>% 
   filter(Size_Class >0) %>%
+  filter(P_1050 > 25) %>%
   ggplot(aes(y=DOG_P_1050,x=as.factor(Size_Class))) +
   geom_boxplot() +
+  ylim(0,1) +
   geom_point(color="black", size=2, alpha=0.9) +
   labs(x="Size Class",y="Proportion of Dogoszhi Style") +
   theme_bw()
@@ -48,21 +50,25 @@ figure_5 <- full %>%
 #### Figure 6
 
 p1 <- full %>%
+  filter(P_900 > 20) %>%
   ggplot(aes(x=Mean_Rooms, BM_P_900)) +
   geom_point() +
   theme_bw() +
   labs(title=paste('A.D. 900-950, \u03c1 =',round(cor(full$Mean_Rooms,full$BM_P_900,method='spearman',use = "na.or.complete"),2)), x="Site Size", y="Black Mesa Style")
 p2 <- full %>%
+  filter(P_950 > 20) %>%
   ggplot(aes(x=Mean_Rooms,BM_P_950)) +
   geom_point() +
   theme_bw() +
   labs(title=paste('A.D. 950-1000, \u03c1 =',round(cor(full$Mean_Rooms,full$BM_P_950,method='spearman',use = "na.or.complete"),2)), x="Site Size", y="Black Mesa Style")
 p3 <- full %>%
+  filter(P_1050 > 20) %>%
   ggplot(aes(x=Mean_Rooms,DOG_P_1050)) +
   geom_point() +
   theme_bw() +
   labs(title=paste('A.D. 1050-1100, \u03c1 =',round(cor(full$Mean_Rooms,full$DOG_P_1050,method='spearman',use = "na.or.complete"),2)), x="Site Size", y="Dogoszhi Style")
 p4 <- full %>%
+  filter(P_1100 > 20) %>%
   ggplot(aes(x=Mean_Rooms,DOG_P_1100)) +
   geom_point() +
   theme_bw() +
@@ -73,21 +79,25 @@ figure_6 <- ggarrange(p1,p2,p3,p4, ncol = 2, nrow = 2)
 #### Figure 7
 
 p1 <- full %>%
+  filter(P_900 > 20) %>%
   ggplot(aes(x=EV_900,BM_P_900)) +
   geom_point() +
   theme_bw() +
   labs(title=paste('A.D. 900-950, \u03c1 =',round(cor(full$EV_900,full$BM_P_900,method='spearman',use = "na.or.complete"),2)), x="Eigenvector Centrality", y="Black Mesa Style")
 p2 <- full %>%
+  filter(P_950 > 20) %>%
   ggplot(aes(x=EV_950,BM_P_950)) +
   geom_point() +
   theme_bw() +
   labs(title=paste('A.D. 950-1000, \u03c1 =',round(cor(full$EV_950,full$BM_P_950,method='spearman',use = "na.or.complete"),2)), x="Eigenvector Centrality", y="Black Mesa Style")
 p3 <- full %>%
+  filter(P_1050 > 20) %>%
   ggplot(aes(x=EV_1050,DOG_P_1050)) +
   geom_point() +
   theme_bw() +
   labs(title=paste('A.D. 1050-1100, \u03c1 =',round(cor(full$EV_1050,full$DOG_P_1050,method='spearman',use = "na.or.complete"),2)), x="Eigenvector Centrality", y="Dogoszhi Style")
 p4 <- full %>%
+  filter(P_1100 > 20) %>%
   ggplot(aes(x=EV_1100,DOG_P_1100)) +
   geom_point() +
   theme_bw() +
@@ -153,5 +163,7 @@ figure_6
 figure_7
 figure_8
 figure_9
+figure_10
+figure_11
 
 write.csv(full,'All_Analysis.csv',row.names=F)
