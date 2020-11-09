@@ -3,8 +3,8 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 3004,5 Acre Ruin,Southeast Utah,100,2,Small,1,2,0,0,0,3,643837,4156903,-109.37,37.54
 3005,Albert Porter,San Juan Foothills,80,2,Small,1,1,0,0,0,2,694215,4151766,-108.8,37.49
 3006,Allentown,Rio Puerco of the West,110,2,Small,1,1,0,0,0,2,669570,3903409,-109.13,35.26
-3007,Andrews,Lobo Mesa/Red Mesa Valley,22,1,Small,1,1,0,0,0,2,771652,3921810,-108,35.4
-3353,Andrews Great Kiva NM,Lobo Mesa/Red Mesa Valley,2,1,Small,0,1,0,0,0,1,772070,3921210,-108,35.39
+3007,Andrews,Lobo Mesa,22,1,Small,1,1,0,0,0,2,771652,3921810,-108,35.4
+3353,Andrews Great Kiva NM,Lobo Mesa,2,1,Small,0,1,0,0,0,1,772070,3921210,-108,35.39
 3009,Ansell Hall,San Juan Foothills,200,2,Small,1,1,0,0,0,2,686737,4167652,-108.88,37.63
 1373,Antelope House,Upper Chinle Drainage,100,2,Small,1,0,0,0,0,1,639851,4002395,-109.44,36.15
 665,Aragon,,,,,0,1,0,0,0,1,726518,3751658,-108.55,33.88
@@ -34,8 +34,8 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 3046,Black Creek Flat,Chuska Slope,24,1,Small,1,0,0,0,0,1,699137,3956300,-108.79,35.73
 3047,Black Mesa Ruin,Southeast Utah,,,,1,0,0,0,0,1,626039,4154422,-109.57,37.53
 3048,Blackrock Gaddy,Defiance Plateau,30,1,Small,1,0,0,0,0,1,634857,3917200,-109.51,35.39
-3049,Blue J,Lobo Mesa/Red Mesa Valley,4,1,Small,1,0,0,0,0,1,769045,3925650,-108.03,35.43
-3051,Bluewater Spring,Lobo Mesa/San Juan Basin,30,1,Small,1,1,0,0,0,2,766035,3946679,-108.06,35.62
+3049,Blue J,Lobo Mesa,4,1,Small,1,0,0,0,0,1,769045,3925650,-108.03,35.43
+3051,Bluewater Spring,Lobo Mesa,30,1,Small,1,1,0,0,0,2,766035,3946679,-108.06,35.62
 3053,Bluff Bench Great Kiva,Southeast Utah,,,,0,1,0,0,0,1,627708,4136405,-109.55,37.36
 3052,Bluff Great House,Southeast Utah,50,1,Small,1,1,0,0,0,2,627928,4127728,-109.55,37.28
 3428,Bowman Site East,Chuska Slope,6,1,Small,1,0,0,0,0,1,699257,3952400,-108.79,35.69
@@ -48,12 +48,12 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 3061,Casa Cielo,Central San Juan Basin,12,1,Small,1,0,0,0,0,1,746729,3985386,-108.26,35.98
 3062,Casa del Rio,Central San Juan Basin,130,2,Small,1,0,0,0,0,1,762315,3998132,-108.08,36.09
 3063,Casa Escondida,Central San Juan Basin,7,1,Small,1,1,0,0,0,2,758690,3983927,-108.13,35.96
-3064,Casa Estrella,Lobo Mesa/San Juan Basin,8,1,Small,1,0,0,0,0,1,748726,3956706,-108.25,35.72
+3064,Casa Estrella,Lobo Mesa,8,1,Small,1,0,0,0,0,1,748726,3956706,-108.25,35.72
 2997,Casa Mosca,Acoma,72,2,Small,1,1,0,0,0,2,780508,3849758,-107.93,34.75
 3065,Casa Negra,San Juan Foothills,60,1,Small,1,1,0,0,0,2,697737,4141302,-108.76,37.39
 3066,Casa Patricio,Central San Juan Basin,,,,0,1,0,0,0,1,771643,3981907,-107.98,35.94
 3067,Casa Rinconada,Chaco Canyon,,,,0,1,0,0,0,1,773842,3994276,-107.96,36.05
-3068,Casamero,Lobo Mesa/Red Mesa Valley,30,1,Small,1,1,0,0,0,2,767495,3924294,-108.05,35.42
+3068,Casamero,Lobo Mesa,30,1,Small,1,1,0,0,0,2,767495,3924294,-108.05,35.42
 1618,Castle Rock Pueblo,San Juan Foothills,70,2,Small,0,0,1,0,0,1,693394,4135134,-108.81,37.34
 3351,Cerritos de Jaspe GK,Acoma,7,1,Small,0,1,0,0,0,1,773267,3870400,-108,34.94
 3069,Cerro Pomo,Mariana Mesa/Quemado,40,1,Small,1,1,0,0,0,2,710317,3803250,-108.71,34.35
@@ -71,12 +71,12 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 3083,Cothruns,Silver Creek,6,1,Small,0,1,0,0,0,1,573039,3799453,-110.2,34.33
 3084,Cottonwood Falls,Southeast Utah,85,2,Small,1,1,0,0,0,2,624345,4159908,-109.59,37.57
 1988,Cox Ranch,Mariana Mesa/Quemado,50,1,Small,1,1,0,0,0,2,702990,3807002,-108.79,34.38
-3086,Coyotes Sing Here,Lobo Mesa/Red Mesa Valley,17,1,Small,1,1,0,0,0,2,766181,3930716,-108.06,35.48
+3086,Coyotes Sing Here,Lobo Mesa,17,1,Small,1,1,0,0,0,2,766181,3930716,-108.06,35.48
 754,Crumbled House,Chuska Slope,,,,1,0,0,0,0,1,699564,4010757,-108.78,36.22
 3087,CS219,Silver Creek,,,,0,1,0,0,0,1,578953,3787497,-110.14,34.22
 3088,CS689,West,,,,0,1,0,0,0,1,508270,3829970,-110.91,34.61
 3089,Cuatro Payasos,Central San Juan Basin,14,1,Small,1,0,0,0,0,1,736405,4006419,-108.37,36.17
-3090,Dalton Pass,Lobo Mesa/San Juan Basin,20,1,Small,1,1,0,0,0,2,744858,3955547,-108.29,35.71
+3090,Dalton Pass,Lobo Mesa,20,1,Small,1,1,0,0,0,2,744858,3955547,-108.29,35.71
 2602,Dancing Rock GH,Upper Chinle Drainage,9,1,Small,1,0,0,0,0,1,625938,4062202,-109.59,36.69
 3091,Danson 202,Mariana Mesa/Quemado,50,1,Small,1,0,0,0,0,1,726946,3798468,-108.53,34.3
 3093,Deer Springs,Chuska Slope,7,1,Small,1,0,0,0,0,1,698987,3957570,-108.8,35.74
@@ -86,7 +86,7 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 977,Eagle Crag,Defiance Plateau,100,2,Small,1,0,0,0,0,1,606275,3964325,-109.82,35.81
 3097,Edge of the Cedars,Southeast Utah,16,1,Small,1,1,0,0,0,2,633187,4165966,-109.49,37.63
 3098,El Malpais,Middle San Juan,20,1,Small,1,2,0,0,0,3,697307,4082971,-108.78,36.87
-3099,El Rito,Lobo Mesa/Red Mesa Valley,55,1,Small,1,1,0,0,0,2,800557,3912534,-107.69,35.31
+3099,El Rito,Lobo Mesa,55,1,Small,1,1,0,0,0,2,800557,3912534,-107.69,35.31
 3334,Escalante GH,San Juan Foothills,25,1,Small,1,0,0,0,0,1,717017,4150696,-108.54,37.47
 3101,Escalon A,Central San Juan Basin,6,1,Small,2,2,0,0,0,4+,736326,4001633,-108.37,36.13
 3102,Escalon B,Central San Juan Basin,14,1,Small,0,0,0,0,0,1,736326,4001633,-108.37,36.13
@@ -121,8 +121,8 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 3130,Hampton,San Juan Foothills,,,,0,1,0,0,0,1,677380,4163128,-108.99,37.59
 3131,Hartman Draw,San Juan Foothills,,,,1,1,0,0,0,2,713874,4144403,-108.58,37.42
 3133,Haynie Ruin,San Juan Foothills,50,1,Small,1,1,0,0,0,2,720956,4139877,-108.5,37.38
-3134,Haystack,Lobo Mesa/Red Mesa Valley,28,1,Small,1,1,0,0,0,2,783132,3915618,-107.88,35.34
-3366,Haystack Great Kiva 2,Lobo Mesa/Red Mesa Valley,16,1,Small,0,1,0,0,0,1,782318,3915356,-107.89,35.34
+3134,Haystack,Lobo Mesa,28,1,Small,1,1,0,0,0,2,783132,3915618,-107.88,35.34
+3366,Haystack Great Kiva 2,Lobo Mesa,16,1,Small,0,1,0,0,0,1,782318,3915356,-107.89,35.34
 3135,Hedley Ruin,San Juan Foothills,,,,2,1,1,0,0,4+,670387,4165703,-109.06,37.62
 964,Hinkson Ranch,Cibola,16,1,Small,1,1,0,0,0,2,682727,3852700,-109,34.8
 3136,Hogback,Middle San Juan,9,1,Small,1,2,0,0,0,3,720541,4059341,-108.53,36.65
@@ -133,7 +133,7 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 3141,House of the Giant Midden,Central San Juan Basin,,,,0,0,0,0,0,1,738048,3999158,-108.35,36.1
 3355,HST Great Kiva,Southeast Utah,5,1,Small,0,1,0,0,0,1,592550,4143384,-109.95,37.43
 1103,Hubble Corner,Mariana Mesa/Quemado,130,2,Small,1,1,0,0,0,2,736597,3818100,-108.42,34.47
-3144,Hurley Site,Lobo Mesa/San Juan Basin,25,1,Small,1,1,0,0,0,2,754037,3954780,-108.19,35.7
+3144,Hurley Site,Lobo Mesa,25,1,Small,1,1,0,0,0,2,754037,3954780,-108.19,35.7
 3145,Ida Jean,San Juan Foothills,50,1,Small,1,1,0,0,0,2,720072,4139889,-108.51,37.38
 3146,Iyanbito Great Kiva,Rio Puerco of the West,,,,0,1,0,0,0,1,731750,3931600,-108.44,35.5
 733,Jaquez,Middle San Juan,200,2,Small,1,2,0,0,0,3,757570,4064586,-108.11,36.69
@@ -148,26 +148,26 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 3154,Kin Kletso,Chaco Canyon,6,1,Small,1,0,0,0,0,1,772905,3995422,-107.97,36.06
 3155,Kin Klizhin,Central San Juan Basin,18,1,Small,1,0,0,0,0,1,763743,3991110,-108.07,36.03
 3156,Kin Nahasbas,Chaco Canyon,16,1,Small,1,1,0,0,0,2,778096,3992381,-107.91,36.03
-3157,Kin Sani,Lobo Mesa/Red Mesa Valley,12,1,Small,1,4,0,0,0,4+,765935,3932774,-108.06,35.5
-3158,Kin Tliish,Lobo Mesa/Red Mesa Valley,12,1,Small,1,4,0,0,0,4+,780937,3916805,-107.9,35.35
-3160,Kin Ya'a,Lobo Mesa/San Juan Basin,44,1,Small,1,1,0,0,0,2,761222,3951855,-108.11,35.67
+3157,Kin Sani,Lobo Mesa,12,1,Small,1,4,0,0,0,4+,765935,3932774,-108.06,35.5
+3158,Kin Tliish,Lobo Mesa,12,1,Small,1,4,0,0,0,4+,780937,3916805,-107.9,35.35
+3160,Kin Ya'a,Lobo Mesa,44,1,Small,1,1,0,0,0,2,761222,3951855,-108.11,35.67
 989,Kinlichee,Defiance Plateau,150,2,Small,1,2,0,0,0,3,642857,3957960,-109.42,35.75
 3164,LA 100280,Rio Puerco of the West,,,,0,1,0,0,0,1,729887,3931930,-108.46,35.5
 3000,LA 102391,Acoma,10,1,Small,0,1,0,0,0,1,777465,3840703,-107.97,34.67
 3347,LA 103458,Chuska Slope,12,1,Small,0,1,0,0,0,1,701497,3963000,-108.77,35.79
 3165,LA 115436,Cibola,20,1,Small,0,1,0,0,0,1,703127,3867310,-108.77,34.92
 3001,LA 11670,Acoma,14,1,Small,1,1,0,0,0,2,780293,3850343,-107.93,34.75
-3166,LA 12573 A,Lobo Mesa/Red Mesa Valley,20,1,Small,1,1,0,0,0,2,782318,3915356,-107.89,35.34
+3166,LA 12573 A,Lobo Mesa,20,1,Small,1,1,0,0,0,2,782318,3915356,-107.89,35.34
 3167,LA 126820,Central San Juan Basin,,,,0,1,0,0,0,1,775508,3981124,-107.94,35.93
 3168,LA 126862,Central San Juan Basin,7,1,Small,0,1,0,0,0,1,775306,3977985,-107.95,35.9
-3169,LA 17226,Lobo Mesa/San Juan Basin,22,1,Small,1,1,0,0,0,2,754403,3955235,-108.18,35.71
+3169,LA 17226,Lobo Mesa,22,1,Small,1,1,0,0,0,2,754403,3955235,-108.18,35.71
 3171,LA 2520,Middle San Juan,60,1,Small,1,0,0,0,0,1,739473,4083148,-108.31,36.86
 3336,LA 40082,Central San Juan Basin,16,1,Small,1,0,0,0,0,1,775547,3981055,-107.94,35.93
 3183,LA 47526,Rio Puerco of the West,3,1,Small,0,1,0,0,0,1,682737,3915500,-108.98,35.36
 3188,LA 60002,Middle San Juan,,,,0,2,0,0,0,2,766895,4080672,-108,36.83
 3189,LA 60006,Middle San Juan,,,,0,1,0,0,0,1,767119,4080877,-108,36.83
 3191,LA 60022,Middle San Juan,9,1,Small,0,3,0,0,0,3,767807,4081539,-107.99,36.84
-3194,LA 67158,Lobo Mesa/Red Mesa Valley,,,,0,1,0,0,0,1,767577,3924370,-108.05,35.42
+3194,LA 67158,Lobo Mesa,,,,0,1,0,0,0,1,767577,3924370,-108.05,35.42
 3199,LA 7603,Chuska Slope,,,,0,1,0,0,0,1,698839,4030874,-108.78,36.4
 811,LA 8240,Chuska Slope,33,1,Small,1,0,0,0,0,1,711828,3991287,-108.64,36.04
 3200,LA 8244,Chuska Slope,50,1,Small,0,1,0,0,0,1,684854,4052621,-108.93,36.6
@@ -186,7 +186,7 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 3210,Los Veteados Great Kiva,Acoma,8,1,Small,0,1,0,0,0,1,778179,3839778,-107.96,34.66
 3211,Lower Cow Canyon,San Juan Foothills,,,,0,1,0,0,0,1,681004,4158918,-108.95,37.56
 3212,Lower Greenlee,Central San Juan Basin,,,,1,0,0,0,0,1,777926,3982731,-107.91,35.95
-3213,Lower Kin Nizhoni,Lobo Mesa/Red Mesa Valley,3,1,Small,1,0,0,0,0,1,792664,3918753,-107.77,35.37
+3213,Lower Kin Nizhoni,Lobo Mesa,3,1,Small,1,0,0,0,0,1,792664,3918753,-107.77,35.37
 3214,Lowry,San Juan Foothills,40,1,Small,1,1,0,0,0,2,683644,4161767,-108.92,37.58
 1368,Lukachukai GH,Upper Chinle Drainage,30,1,Small,1,0,0,0,0,1,652757,4034681,-109.29,36.44
 3215,LZ 1090 Group,Cibola,,,,0,2,0,0,0,2,683650,3849800,-108.99,34.77
@@ -206,7 +206,7 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 727,Morris 39,Middle San Juan,145,2,Small,2,5,0,0,0,4+,747943,4082548,-108.21,36.85
 1935,Morris 41,Middle San Juan,24,1,Small,1,2,0,0,0,3,750051,4096618,-108.19,36.98
 906,Morris' Old Fort,Middle San Juan,75,2,Small,1,1,0,0,0,2,748558,4066051,-108.21,36.7
-3240,Muddy Water,Lobo Mesa/San Juan Basin,24,1,Small,1,1,0,0,0,2,754411,3955359,-108.18,35.71
+3240,Muddy Water,Lobo Mesa,24,1,Small,1,1,0,0,0,2,754411,3955359,-108.18,35.71
 3367,NA 8013,Defiance Plateau,14,1,Small,0,1,0,0,0,1,642857,3957960,-109.42,35.75
 3368,NA 8014,Defiance Plateau,8,1,Small,0,1,0,0,0,1,642857,3957960,-109.42,35.75
 3345,NA 8044,Rio Puerco of the West,,,,0,0,0,0,0,1,,,,
@@ -244,7 +244,7 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 824,Salmon,Middle San Juan,300,3,Big,1,2,0,0,0,3,765586,4065874,-108.02,36.7
 3280,Sambrito Village,Middle San Juan,,,,0,1,0,0,0,1,816479,4097186,-107.44,36.96
 3403,San Juan Biwall,Middle San Juan,,,,0,1,0,1,0,2,688537,4084801,-108.88,36.89
-3281,San Mateo,Lobo Mesa/Red Mesa Valley,112,2,Small,1,2,0,0,0,3,804486,3916425,-107.65,35.34
+3281,San Mateo,Lobo Mesa,112,2,Small,1,2,0,0,0,3,804486,3916425,-107.65,35.34
 3356,Sand Canyon Pueblo,San Juan Foothills,530,4,Big,0,1,1,0,0,2,696900,4141280,-108.77,37.39
 3283,Sanders GH,Rio Puerco of the West,40,1,Small,1,1,0,0,0,2,651387,3895780,-109.33,35.19
 3284,Sanostee,Central San Juan Basin,16,1,Small,1,2,0,0,0,3,717450,4038444,-108.57,36.46
@@ -269,8 +269,8 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 3304,Toh La Kai,Chuska Slope,18,1,Small,1,1,0,0,0,2,703611,3947909,-108.75,35.65
 1098,Tom's Rock,Mariana Mesa/Quemado,100,2,Small,1,1,0,0,0,2,745057,3817900,-108.33,34.47
 3305,Toyee,Defiance Plateau,9,1,Small,1,1,0,0,0,2,603717,3956920,-109.85,35.75
-3306,Tse Bee Kintsoh,Lobo Mesa/Red Mesa Valley,30,1,Small,1,4,0,0,0,4+,758301,3922670,-108.15,35.41
-3308,Tse La Vie,Lobo Mesa/San Juan Basin,,,,1,0,0,0,0,1,798925,3934158,-107.7,35.5
+3306,Tse Bee Kintsoh,Lobo Mesa,30,1,Small,1,4,0,0,0,4+,758301,3922670,-108.15,35.41
+3308,Tse La Vie,Lobo Mesa,,,,1,0,0,0,0,1,798925,3934158,-107.7,35.5
 3309,Tse Lichii,Central San Juan Basin,12,1,Small,1,0,0,0,0,1,788069,3984164,-107.8,35.96
 3310,Tseyatoh,Rio Puerco of the West,60,1,Small,1,1,0,0,0,2,687723,3932071,-108.93,35.51
 3311,Tsin Kletzin,Chaco Canyon,80,2,Small,1,0,0,0,0,1,774103,3992272,-107.95,36.03
@@ -281,7 +281,7 @@ SWSN_ID,SWSN_Site,CSN_macro_group,Mean_Rooms,Size_Class,Size,GH_Count,GK_Count,D
 3315,Una Vida,Chaco Canyon,100,2,Small,1,2,0,0,0,3,778246,3992102,-107.91,36.03
 3387,Upper Battleship Rock Pueblo,San Juan Foothills,,,,1,0,0,0,0,1,723625,4124789,-108.47,37.24
 3316,Upper Kin Klizhin,Central San Juan Basin,25,1,Small,1,0,0,0,0,1,771898,3983217,-107.98,35.95
-3317,Upper Kin Nizhoni,Lobo Mesa/Red Mesa Valley,14,1,Small,1,1,0,0,0,2,792214,3918715,-107.78,35.37
+3317,Upper Kin Nizhoni,Lobo Mesa,14,1,Small,1,1,0,0,0,2,792214,3918715,-107.78,35.37
 3319,Vidal Canyon,Rio Puerco of the West,35,1,Small,0,1,0,0,0,1,707488,3936822,-108.71,35.55
 1288,Village of the Great Kivas,Cibola,60,1,Small,1,2,0,0,0,3,709707,3897370,-108.69,35.19
 3320,Wallace Ruin,San Juan Foothills,124,2,Small,1,0,0,0,0,1,721562,4139552,-108.49,37.37
